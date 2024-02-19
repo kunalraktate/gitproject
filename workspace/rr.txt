@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is branch 1 change
 
+=======
+This is branch 2 change
+>>>>>>> branch2
